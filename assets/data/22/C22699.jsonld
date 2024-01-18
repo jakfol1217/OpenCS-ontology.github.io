@@ -16,22 +16,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@id": "https://w3id.org/ocs/ont/C34769"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C36641"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34882"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30978"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35411"
+        "@id": "https://w3id.org/ocs/ont/C34769"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34882"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -42,25 +42,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C6534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9908"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C39850"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C210"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11252"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4651"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12002"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C19673"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8475"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8791"
@@ -69,13 +69,13 @@
         "@id": "https://w3id.org/ocs/ont/C37773"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C10320"
+        "@id": "https://w3id.org/ocs/ont/C12002"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6534"
+        "@id": "https://w3id.org/ocs/ont/C11252"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9908"
+        "@id": "https://w3id.org/ocs/ont/C4651"
       }
     ]
   }

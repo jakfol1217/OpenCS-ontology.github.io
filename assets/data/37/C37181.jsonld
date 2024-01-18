@@ -11,10 +11,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@id": "https://w3id.org/ocs/ont/C45315"
+        "@id": "https://w3id.org/ocs/ont/C43213"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C43213"
+        "@id": "https://w3id.org/ocs/ont/C45315"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

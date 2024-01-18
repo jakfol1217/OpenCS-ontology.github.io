@@ -6,16 +6,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C34096"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32806"
+        "@id": "https://w3id.org/ocs/ont/C30592"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32111"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C30592"
+        "@id": "https://w3id.org/ocs/ont/C34096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32806"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30643"

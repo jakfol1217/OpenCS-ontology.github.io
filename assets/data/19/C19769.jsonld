@@ -14,13 +14,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@id": "https://w3id.org/ocs/ont/C32993"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C33885"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32993"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

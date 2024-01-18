@@ -6,10 +6,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C23"
+        "@id": "https://w3id.org/ocs/ont/C32"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32"
+        "@id": "https://w3id.org/ocs/ont/C23"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
@@ -19,13 +19,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@id": "https://w3id.org/ocs/ont/C20963"
+        "@id": "https://w3id.org/ocs/ont/C17640"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23338"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17640"
+        "@id": "https://w3id.org/ocs/ont/C20963"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25529"
@@ -39,13 +39,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1057"
+        "@id": "https://w3id.org/ocs/ont/C36447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41195"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8710"
+        "@id": "https://w3id.org/ocs/ont/C1057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3791"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C928"
@@ -57,22 +66,13 @@
         "@id": "https://w3id.org/ocs/ont/C31"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3983"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41195"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3077"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3791"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36447"
+        "@id": "https://w3id.org/ocs/ont/C8710"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3077"
       }
     ]
   }

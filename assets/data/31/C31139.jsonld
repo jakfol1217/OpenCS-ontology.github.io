@@ -6,16 +6,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C24668"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C27426"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23855"
+        "@id": "https://w3id.org/ocs/ont/C17699"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17699"
+        "@id": "https://w3id.org/ocs/ont/C24668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23855"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

@@ -30,9 +30,6 @@
         "@id": "https://w3id.org/ocs/ont/C22699"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C210"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C11252"
       },
       {
@@ -42,13 +39,16 @@
         "@id": "https://w3id.org/ocs/ont/C26"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35269"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C433"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C210"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C19673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35269"
       }
     ]
   }

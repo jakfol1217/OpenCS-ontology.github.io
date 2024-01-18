@@ -1,6 +1,6 @@
 ---
-date: 29-01-2023
+date: 18-01-2024
 layout: page
-previous_version: 0.3.0
+previous_version: '0.2'
 version: 0.3.1
 ---

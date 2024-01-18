@@ -9,13 +9,13 @@
         "@id": "https://w3id.org/ocs/ont/C10917"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C8753"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C8499"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2478"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8753"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

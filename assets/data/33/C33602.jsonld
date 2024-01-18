@@ -30,10 +30,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C28526"
+        "@id": "https://w3id.org/ocs/ont/C20086"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20086"
+        "@id": "https://w3id.org/ocs/ont/C28526"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C44586"

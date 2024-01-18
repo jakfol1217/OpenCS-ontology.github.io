@@ -11,16 +11,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@id": "https://w3id.org/ocs/ont/C33328"
+        "@id": "https://w3id.org/ocs/ont/C34328"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C37725"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34328"
+        "@id": "https://w3id.org/ocs/ont/C32902"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32902"
+        "@id": "https://w3id.org/ocs/ont/C33328"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33084"

@@ -34,6 +34,12 @@
         "@id": "https://w3id.org/ocs/ont/C13155"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C27111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41977"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C2937"
       },
       {
@@ -41,12 +47,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4584"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41977"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27111"
       }
     ]
   }

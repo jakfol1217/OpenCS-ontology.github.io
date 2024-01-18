@@ -25,16 +25,16 @@
         "@id": "https://w3id.org/ocs/ont/C5550"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6757"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C4457"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25356"
+        "@id": "https://w3id.org/ocs/ont/C6757"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25356"
       }
     ]
   }

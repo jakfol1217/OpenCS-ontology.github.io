@@ -33,16 +33,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C27654"
+        "@id": "https://w3id.org/ocs/ont/C18175"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25918"
+        "@id": "https://w3id.org/ocs/ont/C29212"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21607"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24724"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18085"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25028"
@@ -57,25 +60,22 @@
         "@id": "https://w3id.org/ocs/ont/C22649"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18175"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29212"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19222"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27562"
+        "@id": "https://w3id.org/ocs/ont/C18085"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C10556"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C27654"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C26348"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21607"
+        "@id": "https://w3id.org/ocs/ont/C19222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25918"
       }
     ]
   }

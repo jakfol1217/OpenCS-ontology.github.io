@@ -27,58 +27,58 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C29048"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21424"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32456"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15505"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9154"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25195"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C26768"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14053"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8021"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31899"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22326"
+        "@id": "https://w3id.org/ocs/ont/C32456"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12999"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C31114"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C10409"
+        "@id": "https://w3id.org/ocs/ont/C25195"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32753"
+        "@id": "https://w3id.org/ocs/ont/C14053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31899"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15505"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35370"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12641"
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32753"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
       }
     ]
   }

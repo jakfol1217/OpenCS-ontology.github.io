@@ -6,13 +6,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C23"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C13"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
@@ -28,16 +28,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C972"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33651"
+        "@id": "https://w3id.org/ocs/ont/C4774"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29536"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19424"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2468"
@@ -46,7 +40,7 @@
         "@id": "https://w3id.org/ocs/ont/C21157"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C42910"
+        "@id": "https://w3id.org/ocs/ont/C1057"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C39578"
@@ -55,25 +49,31 @@
         "@id": "https://w3id.org/ocs/ont/C39815"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27986"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4774"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1057"
+        "@id": "https://w3id.org/ocs/ont/C972"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27986"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1812"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33651"
       }
     ]
   }

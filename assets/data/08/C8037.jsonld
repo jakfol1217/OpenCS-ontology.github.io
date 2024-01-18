@@ -25,22 +25,31 @@
         "@id": "https://w3id.org/ocs/ont/C8751"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31724"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6531"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11927"
+        "@id": "https://w3id.org/ocs/ont/C12185"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6072"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12185"
+        "@id": "https://w3id.org/ocs/ont/C1386"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C10327"
+        "@id": "https://w3id.org/ocs/ont/C21748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36877"
@@ -49,25 +58,10 @@
         "@id": "https://w3id.org/ocs/ont/C30666"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11128"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44891"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23014"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21748"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1386"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C44124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11812"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33896"
@@ -76,7 +70,13 @@
         "@id": "https://w3id.org/ocs/ont/C28801"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11812"
+        "@id": "https://w3id.org/ocs/ont/C23014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44891"
       }
     ]
   }

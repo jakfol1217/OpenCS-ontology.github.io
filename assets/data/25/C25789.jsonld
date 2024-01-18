@@ -14,22 +14,22 @@
         "@id": "https://w3id.org/ocs/ont/C37454"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29882"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C32035"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34179"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29682"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34725"
+        "@id": "https://w3id.org/ocs/ont/C29882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34179"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34725"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

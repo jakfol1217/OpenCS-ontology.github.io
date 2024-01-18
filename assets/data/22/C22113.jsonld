@@ -6,7 +6,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C6756"
+        "@id": "https://w3id.org/ocs/ont/C12582"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1503"
@@ -15,7 +15,7 @@
         "@id": "https://w3id.org/ocs/ont/C2801"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12582"
+        "@id": "https://w3id.org/ocs/ont/C6756"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
